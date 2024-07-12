@@ -2,6 +2,8 @@
 
 Estou buscando mais conhecimento em programação com o objetivo de expandir minhas habilidades técnicas e explorar novos horizontes na área de tecnologia.
 
+🎓 Estudando {De.Full stack} E {Data Science}.
+
 🔭  Neste momento estou trabalhando em uma landing page,a mesma será um site de compras de ingresso.Estou utilizando as tecnologias Html e Css.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
